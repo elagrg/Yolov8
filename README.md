@@ -1,4 +1,4 @@
-Konačni videozapisi dobiveni u prethodne dvije Jupyter Notebook bilježnice:
+Konačni videozapisi dobiveni u priložene dvije Jupyter Notebook bilježnice:
 
 1. uvježbavanjem modela dubokog učenja detektirani su rafting objekti - za skup za uvježbavanje korištena je Roboflow platforma
 
